@@ -4,7 +4,7 @@ As a user, I would like to record audio & sync it to Dropbox automatically from 
 ### Approach
 With the exception of a few online courses, I'm just about starting cold with Swift & iOS development in general. This is the beginnings of my final project for the February 2016 iOS development course at General Asembly in Washington, DC. I'm hoping to get going now and learn as I go. I'm keeping a project backlog where I'll write stories to accomplish specific features in my app or things I want to learn.
 
-I'm using Zenhub to maintain the project backlog. The stories and ideas here will probably be a bit amorphous at first, but one of my goals here is to learn as much as I can and focus the project as I go along!
+I'm using Zenhub to maintain the project backlog. The stories and ideas here will probably be a bit amorphous at first, but one of my goals here is to learn as much as I can and focus the project as I go along! Follow the instructions on zenhub.io to install it on Chrome or Firefox. Once that's done, just press 'B' to check out the tinychime backlog!
 
 <a href="https://zenhub.io"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png"></a>
 
