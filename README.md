@@ -1,4 +1,4 @@
-## tinychime
+## tinychime 🎵
 As a user, I would like to record audio & sync it to Dropbox automatically from an iOS device.
 
 ### Approach
